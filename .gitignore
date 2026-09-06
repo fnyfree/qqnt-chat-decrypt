@@ -1,0 +1,4 @@
+found_key.txt
+*.db
+*.bin
+__pycache__/
